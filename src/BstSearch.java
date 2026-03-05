@@ -1,4 +1,4 @@
-public class BstSearch<T extends Comparable<T>> {
+public class BstSearch {
     /**
      * Returns whether a binary search tree contains a given value.
      * 
